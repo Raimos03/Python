@@ -6,4 +6,4 @@ Subpastas contem rorganizações específicas dentro do folder principal para ab
 
 # O que Encontrará ?
 
-Nesse diretório você verá manipulaçao de data-frames e series assim como exibição de dados através do python.
+Nesse diretório você verá algumas manipulações de data-frames e series, assim como exibição de dados através do python.
