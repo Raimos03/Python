@@ -53,7 +53,7 @@ for el in lrep:
         if el in lind:
             
             pos=lind.index(el)
-            #indano=str(dtfab.loc[el][0])
+         
             nind=el +' '+ str(i)
             lind[pos]=nind
             
