@@ -4,6 +4,6 @@ Esse é um reposirório dedicado ao meus códigos Python. Tenho um carinho espec
 Cada pasta contém soluções e arquivos base utilizados ao longo da resolução. 
 Subpastas contem rorganizações específicas dentro do folder principal para abordagem organizada de um ou mais assuntos. 
 
-# O que Encontrará ?
+# O que verá por aqui ?
 
-Nesse diretório você verá algumas manipulações de data-frames e series, assim como exibição de dados através do python.
+Nesse diretório você encontrará algumas manipulações de data-frames e series, assim como exibição de dados através do python.
