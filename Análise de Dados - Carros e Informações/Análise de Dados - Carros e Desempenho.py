@@ -1,23 +1,25 @@
-# -*- coding: utf-8 -*-
-"""
+
+'''# -*- coding: utf-8 -*-
 Created on Fri Nov 20 02:10:56 2020
 
 @author: Pedro Henrique Lima
 
+Executado em: Visual Code e Spyder
 
 Análise de Carros na planilha DadosCarros2020
 Todos os dados foram obtidos pela internet e dessa forma pode haver deve-se considerar uma margem de
 erro. O resultado é aproximado.
-"""
-
-import pandas as pd
+'''
 import matplotlib.pyplot as plt
+import matplotlib as mpl
+import pandas as pd
+#import matplotlib.pyplot as plt
 
 
 pd.set_option("display.max_rows",300)
 pd.set_option("display.max_columns",300)
 
-dfCarros=pd.read_excel('Grupo7-DadosCarros2020.xlsx',header=0,index_col=0)
+dfCarros=pd.read_excel('DadosCarros2020.xlsx',header=0,index_col=0)
 
 
 print("---------------------------------------------------------")
