@@ -7,8 +7,8 @@ Created on Fri Nov 20 02:10:56 2020
 Executado em: Visual Code e Spyder
 
 Análise de Carros na planilha DadosCarros2020
-Todos os dados foram obtidos pela internet e dessa forma pode haver deve-se considerar uma margem de
-erro. O resultado é aproximado.
+Todos os dados foram obtidos pela internet sedo assim, deve-se considerar uma margem de
+erro das informações. O resultado é aproximado.
 '''
 import matplotlib.pyplot as plt
 import matplotlib as mpl
