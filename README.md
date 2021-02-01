@@ -7,3 +7,7 @@ Subpastas contem reorganizações específicas ou vertentes diferentes do mesmo 
 # O que verá por aqui ?
 
 Nesse diretório você encontrará algumas manipulações de data-frames e series, assim como exibição de dados através do python.
+
+# Andamento.
+
+No momento estou atualizando este repositório com todo o material que possuo em python. Isso inclui todo o básico da linguagem como: variáveis, listas, tuplas, dicionários, condicionais, recursividade e análise de dados com Pandas. 
