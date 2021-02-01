@@ -10,4 +10,4 @@ Nesse diretório você encontrará algumas manipulações de data-frames e serie
 
 # Andamento.
 
-No momento estou atualizando este repositório com todo o material que possuo em python. Isso inclui todo o básico da linguagem como: variáveis, listas, tuplas, dicionários, condicionais, recursividade e análise de dados com Pandas. 
+No momento estou atualizando este repositório com todo o material que possuo em python. Isso inclui todo o básico da linguagem como: variáveis, listas, tuplas, dicionários, condicionais, recursividade a parte no qual me encontro, análise de dados com Pandas e criação de gráficos. 
