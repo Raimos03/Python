@@ -362,7 +362,7 @@ print("\n-------------------------------------------------------")
 
 #leitura
 
-dfAuton=pd.read_excel('Grupo7-DadosCarros2020.xlsx',header=0,index_col=0,sheet_name='Autonomia Eletricos')
+dfAuton=pd.read_excel('DadosCarros2020.xlsx',header=0,index_col=0,sheet_name='Autonomia Eletricos')
 
 ###
 #   Renomeie a coluna Gasolina para  Cons kwh/100km. Delete a coluna Alcool.
