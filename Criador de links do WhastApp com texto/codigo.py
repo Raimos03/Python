@@ -1,3 +1,10 @@
+'''
+Author: Pedro Lima
+05-02-2021
+
+ver 1.00
+'''
+
 import clipboard
 
 def validatel(tel):

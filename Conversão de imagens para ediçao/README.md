@@ -6,5 +6,5 @@ De certa forma, é estranho que isso aconteça por que o formato em questão é 
 
 # Resolução
 
-Para solucionar o problema, criei um programa que pegue todas as imagens do diretório e as converta para .PNG. Depois de usa-lo fiz o teste reimportanto o novo arquivo e obtive êxito.
+Para solucionar o problema, criei um programa que pegue todas as imagens do diretório e as converta para .PNG. Depois de usa-lo, fiz o teste reimportanto o novo arquivo e obtive êxito.
 
